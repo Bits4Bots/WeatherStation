@@ -19,10 +19,12 @@ Features:
 ```blocks
 B4B_Weather.initDisplay(DigitalPin.P8, DigitalPin.P9)
 B4B_Weather.showSensor(B4B_Weather.SensorType.Temp)
+Open your microbit makecode project, in Add Package, paste https://github.com/microbit-makecode-packages/TM1637
+to search box then search.
 ```
 
 ## Notes
-- TM1637 driver is provided. 
+- TM1637 driver is provided here https://github.com/microbit-makecode-packages/TM1637
 - Sensor read functions use mock values or micro:bit inputs; connect real modules for actual data.
 
 ---
