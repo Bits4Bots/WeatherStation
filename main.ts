@@ -1,5 +1,5 @@
 //% weight=90 color=#ff6600 icon="\uf185"
-namespace B4B_Weather {
+namespace Bits4Bots_Weather {
 
     let clkPin: DigitalPin
     let dioPin: DigitalPin
