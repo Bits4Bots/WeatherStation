@@ -1,5 +1,5 @@
 # Bits4Bots Weather Extension
-[Bits4Bots Weather Station](microbit sunlight.png)
+![Bits4Bots Weather Station](microbit sunlight.png)
 
 A MakeCode extension for micro:bit to support the **Bits4Bots Weather Station Kit**.
 
