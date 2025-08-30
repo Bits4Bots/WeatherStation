@@ -1,0 +1,13 @@
+{
+    "name": "b4b-weather",
+    "version": "0.0.1",
+    "description": "B4B Weather Station Extension with TM1637 4-digit display",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}

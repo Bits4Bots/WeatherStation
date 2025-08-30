@@ -1,5 +1,3 @@
-# WeatherStation
-Weather station is a system that uses a BBC micro:bit microcontroller, along with external sensors and a carrier board to measure and record weather-related data such as temperature, humidity, barometric pressure, wind speed, and rainfall.
 # B4B Weather Extension
 
 A MakeCode extension for micro:bit to support the **B4B Weather Station Kit**.
@@ -22,7 +20,7 @@ B4B_Weather.showSensor(B4B_Weather.SensorType.Temp)
 ```
 
 ## Notes
-- TM1637 driver is provided.
+- TM1637 driver is provided as a placeholder. Replace with full implementation for real hardware.
 - Sensor read functions use mock values or micro:bit inputs; connect real modules for actual data.
 
 ---
