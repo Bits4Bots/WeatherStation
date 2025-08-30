@@ -1,13 +1,10 @@
 {
-    "name": "bits4bots-weather",
-    "version": "0.0.1",
-    "description": "Bits4Bots Weather Station Extension with TM1637 4-digit display",
-    "license": "MIT",
-    "dependencies": {
-        "core": "*"
-    },
-    "files": [
-        "main.ts"
-    ],
-    "public": true
+  "name": "Bits4Bots WeatherStation",
+  "version": "0.0.1",
+  "description": "Bits4Bots Weather Station with TM1637 display",
+  "icon": "cover.png",
+  "files": [
+    "main.ts",
+    "tm1637.ts"
+  ]
 }
