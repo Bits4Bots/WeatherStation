@@ -1,6 +1,6 @@
-# B4B Weather Extension
+# Bits4Bots Weather Extension
 
-A MakeCode extension for micro:bit to support the **B4B Weather Station Kit**.
+A MakeCode extension for micro:bit to support the **Bits4Bots Weather Station Kit**.
 
 Features:
 - Read sensors (Soil moisture, Light, DHT11 Temp/Humidity, BMP280 Temp)
