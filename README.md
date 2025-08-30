@@ -1,5 +1,5 @@
 # Bits4Bots Weather Extension
-![Bits4Bots Weather Station](microbit sunlight.png)
+[Bits4Bots Weather Station](microbit sunlight.png)
 
 A MakeCode extension for micro:bit to support the **Bits4Bots Weather Station Kit**.
 
@@ -21,8 +21,8 @@ B4B_Weather.showSensor(B4B_Weather.SensorType.Temp)
 ```
 
 ## Notes
-- TM1637 driver is provided as a placeholder. Replace with full implementation for real hardware.
+- TM1637 driver is provided. 
 - Sensor read functions use mock values or micro:bit inputs; connect real modules for actual data.
 
 ---
-© 2025 B4B
+© 2025 Bits4Bots
