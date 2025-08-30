@@ -1,13 +1,13 @@
 # Bits4Bots Weather Extension
-![Bits4Bots Weather Station](microbit sunlight.png)
 <img width="653" height="575" alt="image" src="https://github.com/user-attachments/assets/67f5e6d0-b14a-4355-aa63-e0691897f021" />
 
 A MakeCode extension for micro:bit to support the **Bits4Bots Weather Station Kit**.
-
+![Bits4Bots Weather Station](microbit sunlight.png)
 Features:
 - Read sensors (Soil moisture, Light, DHT11 Temp/Humidity, BMP280 Temp)
 - Display values on a **4-digit TM1637 7-segment display**
 - Blocks for individual sensors or automatic cycling
+<img width="617" height="310" alt="image" src="https://github.com/user-attachments/assets/dc85a541-0eeb-400d-8988-b2f51e7f92a0" />
 
 ## Blocks
 - **Init 7-seg display CLK DIO**
