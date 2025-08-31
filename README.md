@@ -34,7 +34,19 @@ The extension provides easy-to-use blocks for displaying weather data on the TM1
 - Show Humidity  
 - Show Soil Moisture  
 - Show Light  
-- Show Wind Speed  
+- Show Wind Speed
+   
+## 📚 Resources
+
+- BBC micro:bit MakeCode
+- TM1637 Datasheet
+- Bits4Bots STEM Kits
+
+## 🛠️ Future Add-Ons
+
+Support for additional sensors (rain gauge, barometer).
+Auto-scrolling text on TM1637.
+Classroom challenges and lesson plans.
 
 ## Company
 
