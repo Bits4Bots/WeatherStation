@@ -8,12 +8,25 @@ namespace WeatherStation {
 
     /**
      * Initialize the TM1637 display
-     * @param clk clock pin, eg: DigitalPin.P1
-     * @param dio data pin, eg: DigitalPin.P2
+     * @param clk clock pin, eg: DigitalPin.P0
+     * @param dio data pin, eg: DigitalPin.P1
      */
     //% blockId=weatherstation_init block="initialize display with CLK %clk| DIO %dio"
-    export function initDisplay(clk: DigitalPin, dio: DigitalPin): void {
-        display = TM1637.create(clk, dio, 7, 4)
+    let TM1637_CMD1 = 0x40;
+    let TM1637_CMD2 = 0xC0;
+    let TM1637_CMD3 = 0x80;
+    let _SEGMENTS = [0x3F, 0x06, 0x5B, 0x4F, 0x66, 0x6D, 0x7D, 0x07, 0x7F, 0x6F, 0x77, 0x7C, 0x39, 0x5E, 0x79, 0x71];
+
+    /**
+     * TM1637 LED display
+     */
+    export class TM1637LEDs {
+        buf: Buffer;
+        clk: DigitalPin;
+        dio: DigitalPin;
+        _ON: number;
+        brightness: number;
+        count: number;  // number of LEDs
     }
 
     /**
