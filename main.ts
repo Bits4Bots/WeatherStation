@@ -4,7 +4,7 @@
 //% weight=100 color=#00CACA icon="\uf0c2" block="Weather Station"
 namespace Bits4BotsWeatherStation {
 
-    let display: TM1637.TM1637LEDs = null
+/**    let display: TM1637.TM1637LEDs = null */
 
     /**
      * Initialize the TM1637 display
