@@ -2,7 +2,7 @@
  * Bits4Bots Weather Station Extension
  */
 //% weight=100 color=#00CACA icon="\uf0c2" block="Weather Station"
-namespace WeatherStation {
+namespace Bits4BotsWeatherStation {
 
     let display: TM1637.TM1637LEDs = null
 
@@ -27,6 +27,16 @@ namespace WeatherStation {
         _ON: number;
         brightness: number;
         count: number;  // number of LEDs
+
+     /**
+      * initial TM1637
+      */
+        init(): void {
+            pins.digitalWritePin(this.clk, 0);
+            pins.digitalWritePin(this.dio, 0);
+            this._ON = 8;
+            this.buf = pins.createBuffer(this.count);
+            this.clear();
     }
 
     /**
