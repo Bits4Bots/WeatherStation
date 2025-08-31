@@ -1,0 +1,14 @@
+{
+    "name": "weatherstation",
+    "version": "0.0.1",
+    "description": "Bits4Bots Weather Station extension with TM1637 display support",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "tm1637": "github:makecode-extensions/tm1637"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ]
+}
