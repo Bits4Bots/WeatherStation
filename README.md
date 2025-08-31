@@ -27,5 +27,5 @@ The extension provides easy-to-use blocks for displaying weather data on the TM1
 
 ## Company
 
-Developed by **Bits4Bots**  
+Developed by **www.Bits4Bots.com**  
 Educational STEM Kits & Extensions
