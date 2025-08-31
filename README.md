@@ -12,7 +12,7 @@ This MakeCode extension adds support for a **Weather Station** using the **Micro
 
 Connect your TM1637 display to the Micro:bit using alligator clips and a breadboard (see wiring diagram below).  
 
-![TM1637 Wired to microbit](https://github.com/user-attachments/assets/268ad173-8b10-4450-bd15-338b222058ab)
+<img width="786" height="640" alt="image" src="https://github.com/user-attachments/assets/90f49fc4-e9ea-412c-a194-72ac5b2612b8" />
 
 
 ## Blocks
