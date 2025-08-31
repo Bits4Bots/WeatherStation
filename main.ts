@@ -1,8 +1,8 @@
 /**
  * Bits4Bots Weather Station Extension
  */
-//% weight=100 color=#00CACA icon="\uf0c2" block="Weather Station"
-namespace Bits4BotsWeatherStation {
+//% weight=100 color=#00CACA icon="\uf0c2" block="Bits4Bots Weather Station"
+namespace WeatherStation {
 
 /**    let display: TM1637.TM1637LEDs = null */
 
