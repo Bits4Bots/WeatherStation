@@ -2,7 +2,7 @@ Author: Larsha Johnson
 
 Date: 2025 August 31
 
-<img width="1080" height="1350" alt="Bits4Bots Logo Registered" src="https://github.com/user-attachments/assets/a709c77c-83b6-44d3-be70-1d82b0087ed8" />
+<img width="135" height="169" alt="Bits4Bots Logo Registered" src="https://github.com/user-attachments/assets/a709c77c-83b6-44d3-be70-1d82b0087ed8" />
 
 
 # Bits4Bots Weather Station Extension 🌦️
