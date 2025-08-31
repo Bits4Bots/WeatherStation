@@ -1,6 +1,7 @@
 # Bits4Bots Weather Station Extension 🌦️
 Author: Larsha Johnson
 Date: 2025 August 31
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/5c6b623c-f55e-4131-a562-7bef41437f7b" />
 
 This MakeCode extension adds support for a **Weather Station** using the **Micro:bit**, **TM1637 4-Digit Display**, and sensors for:
 
