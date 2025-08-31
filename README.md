@@ -9,7 +9,18 @@ This MakeCode extension adds support for a **Weather Station** using the **Micro
 - 🌬️ Wind Speed (Anemometer)
 
 ## Wiring Guide
+🔌 Wiring Guide
+Example: Connecting TM1637 to micro:bit
 
+CLK → Pin 0
+
+DIO → Pin 1
+
+VCC → 3V
+
+GND → GND
+
+Use alligator clip to breadboard jumper wires for easy student connections.
 Connect your TM1637 display to the Micro:bit using alligator clips and a breadboard (see wiring diagram below).  
 
 ![TM1637 Wired to microbit with code](https://github.com/user-attachments/assets/d89ea9c3-0d27-4685-9368-b222df281d2a)
