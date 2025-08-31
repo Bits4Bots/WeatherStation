@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# MakeCode build artifacts
+built/
+pxt_modules/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
