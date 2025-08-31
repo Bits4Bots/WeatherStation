@@ -45,8 +45,7 @@ The extension provides easy-to-use blocks for displaying weather data on the TM1
    
 ## 📚 Resources
 
-- BBC micro:bit MakeCode
-- TM1637 Datasheet - https://makecode.microbit.org/pkg/makecode-extensions/tm1637
+- https://makecode.microbit.org/pkg/makecode-extensions/tm1637
 - Bits4Bots STEM Kits
 
 ## 🛠️ Future Add-Ons
